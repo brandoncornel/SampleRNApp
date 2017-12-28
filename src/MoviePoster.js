@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
   container: {
     marginLeft: 10,
     marginBottom: 10,
-    height: (height-20-20)/rows-10,
+    height: (height-20)/rows-10,
     width: (width-10)/cols-10,
   },
   imageContainer: {
